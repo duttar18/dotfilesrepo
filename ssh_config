@@ -1,0 +1,4 @@
+Host gitlab
+	HostName gitlab.com
+	User git
+	IdentityFile ~/.ssh/id_rsa
