@@ -1,4 +1,4 @@
 Host gitlab
-	HostName gitlab.com
+	HostName gitlab.umich.edu
 	User git
 	IdentityFile ~/.ssh/id_rsa
